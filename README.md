@@ -1,3 +1,16 @@
-"# SAHE_2026_Workshop" 
-"# SU_2026_AIML" 
-"# SU_2026_AIML" 
+# SU_2026_AIML
+
+This repository contains materials from the **SU_2026 AIML Workshop**.  
+It includes Jupyter notebooks and datasets to learn machine learning modeling and deployment.
+
+## Contents
+- `WORKSHOP.ipynb` : Notebook with ML examples
+- `titanic.csv` : Dataset used in the notebook
+- `README.md` : Project documentation
+
+## Usage
+Clone the repository and open the notebook in Jupyter:
+```bash
+git clone https://github.com/24eu08173-svg/SU_2026_AIML.git
+cd SU_2026_AIML
+jupyter notebook WORKSHOP.ipynb
